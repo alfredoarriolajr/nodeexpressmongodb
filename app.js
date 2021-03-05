@@ -1,4 +1,3 @@
-const rectangle = require('./rectangle');
 const rect = require('./rectangle');
 
 function solveRect(l, w) {
